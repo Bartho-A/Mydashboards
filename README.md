@@ -2,7 +2,7 @@
 
 This interactive dashboard provides insights into the production and capacity trends of rare earth minerals and critical commodities globally, projecting trends up to 2029. It allows users to explore, filter, and visualize mineral data using multiple charts and interactive maps.
 
-#Features
+# Features
 	•	Interactive Map: Global distribution of mineral quantities by year.
 	•	Heatmap: Compare quantities across commodities and years.
 	•	Charts:
@@ -13,7 +13,7 @@ This interactive dashboard provides insights into the production and capacity tr
 	•	Raw Data Viewer: Expandable table to inspect the dataset.
 	•	Metrics Overview: Total quantity, number of commodities, and most recent year displayed at a glance.
 
-#Technologies Used
+# Technologies Used
 	•	Python 3
 	•	Streamlit￼ – For the interactive dashboard
 	•	Pandas￼ – Data manipulation and cleaning
