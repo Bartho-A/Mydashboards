@@ -3,8 +3,7 @@
 This interactive dashboard provides insights into the production and capacity trends of rare earth minerals and critical commodities globally, projecting trends up to 2029. It allows users to explore, filter, and visualize mineral data using multiple charts and interactive maps.
 
 # Data Source
-The dataset used in this dashboard is publicly available from the US Geological Survey:
-World Rare Earth Minerals Outlook to 2029: 
+The dataset used in this dashboard is publicly available from the US Geological Survey. World Rare Earth Minerals Outlook to 2029: 
 ```bash
 Download the dataset
 wget https://www.sciencebase.gov/catalog/file/get/67b8b168d34e1a2e835b7e6c
