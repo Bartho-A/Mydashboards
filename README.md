@@ -6,8 +6,9 @@ This interactive dashboard provides insights into the production and capacity tr
 The dataset used in this dashboard is publicly available from the US Geological Survey:
 World Rare Earth Minerals Outlook to 2029: 
 ```bash
-# Download the dataset
+Download the dataset
 wget https://www.sciencebase.gov/catalog/file/get/67b8b168d34e1a2e835b7e6c
+```
 
 # Features
 Interactive Map: Global distribution of mineral quantities by year.
